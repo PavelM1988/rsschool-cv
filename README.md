@@ -1,1 +1,1 @@
-https://PavelM1988.io/rsschool-cv/
+https://PavelM1988.github.io/rsschool-cv/cv.md
