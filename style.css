@@ -1,0 +1,69 @@
+ *   .body {
+        background: linear-gradient(to top, #646161be, #ffffff);
+        padding: 10px;
+        border: 2px solid rgba(51, 51, 51, 0.726);
+        display:flex;
+ }
+     .all {
+        width: 600px;px;
+        margin: 0 auto;
+        padding: 20px 0; 
+        
+        padding: 10px;
+        text-shadow:
+      -1px 1px 1px rgb(255, 255, 255),
+      -2px 1px 1px rgba(0, 0, 0, 0.55);
+    color: rgb(3, 3, 3);
+
+      }
+
+     .link {
+      padding-left: 80px;
+      font-style:italic
+      margin-left: 5px;
+      font-size: 20px ;
+      
+
+      }
+     .content {padding: 5px 0 0 20px;
+
+      }  
+
+     .teglv1 {position: relative;
+        font-size: larger;
+        text-align: center;
+        font-size: 40px;
+        font-style:italic;
+       
+
+     } 
+
+     .photo {margin-left: 120px;
+        
+    }
+
+     .details {font-size: 20px;
+      font-style:italic;
+      
+      }
+
+     .ullist {
+      font-size:20px;
+      font-style:italic;
+      
+    }
+    .linkcourse {
+      margin-left: 240px;
+    }
+        
+     .linkcourse img {
+      height: 45px;
+      
+   }
+   
+   .github {
+    margin-left:220px;
+   }
+
+  
+  
